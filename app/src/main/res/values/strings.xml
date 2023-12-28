@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="published_at_format">Published At: %1$s</string>
+    <string name="author_format">Author: %1$s</string>
+    <string name="heading_format">Heading: %1$s</string>
+    <string name="description_format">Description: %1$s</string>
+
+</resources>
